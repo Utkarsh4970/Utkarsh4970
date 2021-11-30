@@ -15,7 +15,7 @@
 <a href="https://github.com/Utkarsh4970" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png" alt="https://www.linkedin.com/in/utkarsh075/" height="30" width="40" /></a>
   
-  <a href="https://twitter.com/" target="blank">
+  <a href="https://twitter.com/Utkarsh78388896" target="blank">
   <img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="https://www.linkedin.com/in/utkarsh075/" height="30" width="40" /></a>
   
   
